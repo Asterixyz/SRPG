@@ -1,0 +1,21 @@
+[
+{
+    "modid": "SRPG",
+    "name": "SRPG",
+    "description": "A sweet RPG ;D",
+    "version": "1.0",
+    "mcversion": "1.7.10",
+    "url": "",
+    "updateUrl": "",
+    "authorList": [
+        "asterixyz"
+    ],
+    "credits": "",
+    "logoFile": "",
+    "screenshots": [
+    ],
+    "parent":"",
+    "dependencies": [
+    ]
+}
+]
