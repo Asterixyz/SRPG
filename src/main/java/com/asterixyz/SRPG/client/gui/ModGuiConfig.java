@@ -3,12 +3,9 @@ package com.asterixyz.SRPG.client.gui;
 import com.asterixyz.SRPG.handler.ConfigurationHandler;
 import com.asterixyz.SRPG.reference.Reference;
 import cpw.mods.fml.client.config.GuiConfig;
-import cpw.mods.fml.client.config.IConfigElement;
 import net.minecraft.client.gui.GuiScreen;
 import net.minecraftforge.common.config.ConfigElement;
 import net.minecraftforge.common.config.Configuration;
-
-import java.util.List;
 
 public class ModGuiConfig extends GuiConfig{
     public ModGuiConfig(GuiScreen guiScreen){
